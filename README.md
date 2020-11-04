@@ -1,1 +1,8 @@
 # caffeine
+
+
+Caffeine (A FUD Key logger and Data Exflirtator)
+
+Caffeine is a computer malware, more specifically a fully undetectable key logger. The malware copies itself in a hidden windows directory and logs all the key presses. It stores them in a text file adding the timestamp of each key press, in addition to a confidential file of your choice and mails it to a specific email address each time the computer starts .
+
+The malware can get but it’s not limited to: getting the credentials of a victim, bank passwords, emails, files, usage patterns and confidential information. Caffeine offers the possibility of further extension up to a certain point that does not raise any red flags in the system thus triggering the Antivirus. 
