@@ -8,8 +8,8 @@ The malware can get but it’s not limited to: getting the credentials of a vict
 
 <h2>How to use:</h2>
 <ul>
-    <li><h3>Edit caffeinemeter.pyw with an email and password</h3></li>
-    <li><h3>Enable less secure apps to access Gmail</h3></li>
-    <li><h3>Convert pyw files to exe using Auto py to exe</h3></li>
-    <li><h3>Run first.bat</h3></li>
+    <li><h4>Edit caffeinemeter.pyw with an email and password</h4></li>
+    <li><h4>Enable less secure apps to access Gmail</h4></li>
+    <li><h4>Convert pyw files to exe using Auto py to exe</h4></li>
+    <li><h4>Run first.bat</h3></li>
 </ul>
